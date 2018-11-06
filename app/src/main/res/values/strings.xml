@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">p5ejemplomaestrodetalle2018</string>
+    <string name="din_mico">Dinámico</string>
+    <string name="estatico">Estatico</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="a_adir">Añadir</string>
+    <string name="borrar">Borrar</string>
+</resources>
